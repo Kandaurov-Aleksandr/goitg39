@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .f1 {
+  font-family: "Sen" sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 5px;
+  line-height: 50px;
+}
+.f2 {
+  font-family: "Slabo 27px" serif;
+  font-size: 36px;
+} */
+
+.container_with_bg {
+  background: url("http://s1.picswalls.com/wallpapers/2016/06/10/4k-hd-wallpapers_065228558_309.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  /* display: block; */
+  height: 100vh;
+  background-size: cover;
+}
